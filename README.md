@@ -2,10 +2,16 @@
 
 Exploratory Data Analysis (EDA) is the process of exploring, investigating and gathering insights from data using statistical measures and visualizations. The objective of EDA is to develop and understanding of data, by uncovering trends, relationships and patterns.  
 
-EDA is both a science and an art. On the one hand it requires the knowledge of statistics, visualization techniques and data analysis tools like Numpy, Pandas, Seaborn etc. On the other hand, it requires asking interesting questions to guide the investigation and interpreting numbers & figures to generate useful insights.  
+#### Outline of tasks performed.  
+* Download data. unzip the file if required and make it ready to be consumed by the Pandas dataframe.  
+* Create dataframes from the raw dataset file.  
+* Perform data preparation & cleaning  
+* Perform exploratory analysis & visualization.  
+* Questions and Answers  
+* Summary and Conclusion.  
 
 
-### Tools Used:  
+#### Tools Used:  
 * Python, Pandas
 * matplotlib, plotly, seaborn  
 
